@@ -25,5 +25,5 @@ It proves that **powerful insights don’t always require complex tools** — so
 ---
 
 ## Dashboard Preview
-![Project Screenshot](images/IMG_5729.jpeg)
+![Project Screenshot](IMG_5729.jpeg)
 
